@@ -1,4 +1,4 @@
-# Proxmox VE hosts setup for deploying infrastructure with Ansible
+# Proxmox VE nodes setup for deploying infrastructure with Ansible
 
 ## Short version
 
