@@ -1,0 +1,6 @@
+[proxmox]
+# insert the hostname and/or ip addresses of all nodes
+
+[proxmox:vars]
+ansible_connection=ssh
+ansible_ssh_user=root
